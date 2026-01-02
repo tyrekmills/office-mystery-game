@@ -1,2 +1,2 @@
 # office-mystery-game
-A python (pygame) office mystery game where you collect clues and solve "The missing Badge" case.
+A Python (Pygame) office mystery game where you collect clues and solve "The Missing Badge" case.
